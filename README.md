@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jayendramadaram?tab=projects](https://github.com/jayendramadaram?tab=projects)
+- 👨‍💻 All of my projects are available over [here](https://github.com/jayendramadaram?tab=projects)
 
-- 📝 I regularly make some entertaining stuff on [https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA](https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA)
+- 📝 I regularly make some entertaining stuff on [compilation_exe](https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA)
 
 - 📫 How to reach me **dimebeatengreen8@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jayendra-madharam-961922200](www.linkedin.com/in/jayendra-madharam-961922200)
+- 📄 Know about my experiences [resume](www.linkedin.com/in/jayendra-madharam-961922200)
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai 😁😁**
 
