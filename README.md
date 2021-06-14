@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **web development stuff**
 
-- 🌱 I’m currently learning **mern**
+- 🌱 I’m currently learning **mern and DSA**
 
 - 👯 I’m looking to collaborate on **any innovative projects**
 
