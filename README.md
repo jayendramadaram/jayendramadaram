@@ -2,7 +2,7 @@
 
 ## I'm a Programmer, martial-artist, Developer, and Trainee entrepreneur !!
 
-- 🔭 I just launched my first page: [personal site][https://jayendramadara.000webhostapp.com/]!
+- 🔭 I just launched my first page: [personal site](https://jayendramadara.000webhostapp.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
