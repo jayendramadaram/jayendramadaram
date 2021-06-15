@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume](www.linkedin.com/in/jayendra-madharam-961922200)
 
-- ✨ Goals till june 2022 : complete full stack and DSA <br> establish a 5 figure steady income source / mma nationals participation
+- ✨ Goals till june 2022 : build some fullstack projects<br> 
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
 
