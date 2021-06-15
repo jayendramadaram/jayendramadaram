@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/jayendra__02" target="blank"><img src="https://img.shields.io/twitter/follow/jayendra__02?logo=twitter&style=for-the-badge" alt="jayendra__02" /></a> </p>
 
-- 🔭 I’m currently working on **web development stuff**
 
 - 🌱 I’m currently learning **mern and DSA**
 
