@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
-- ✨ Goals till june 2022 : complete full stack and DSA <br> establish a 5 figure steady income source / mma nationals participation
-
 - 👨‍💻 All of my projects are available over [here](https://github.com/jayendramadaram?tab=projects)
 
 - 📝 I regularly make some entertaining stuff on [compilation_exe](https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA)
@@ -21,7 +19,9 @@
 
 - 📄 Know about my experiences [resume](www.linkedin.com/in/jayendra-madharam-961922200)
 
-- ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai 😁😁**
+- ✨ Goals till june 2022 : complete full stack and DSA <br> establish a 5 figure steady income source / mma nationals participation
+
+- ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
