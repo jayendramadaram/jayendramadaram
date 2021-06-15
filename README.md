@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jayendra</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm jayendra</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 
