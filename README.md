@@ -12,8 +12,7 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
-- ✨ Goals till june 2022 : complete full stack and DSA / establish a 5 figure steady income source
-mma nationals participation
+- ✨ Goals till june 2022 : complete full stack and DSA <br> establish a 5 figure steady income source / mma nationals participation
 
 - 👨‍💻 All of my projects are available over [here](https://github.com/jayendramadaram?tab=projects)
 
