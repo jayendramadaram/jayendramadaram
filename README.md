@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
-- 👨‍💻 All of my projects are available over [here](https://github.com/jayendramadaram?tab=projects)
 
 - 📝 I regularly make some entertaining stuff on [compilation_exe](https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA)
 
