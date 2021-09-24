@@ -13,7 +13,7 @@
 
 -✨ online portfolio [https://portfolio-jayendramadara.herokuapp.com/](https://portfolio-jayendramadara.herokuapp.com/)
 
-- 📝 I regularly make some entertaining stuff on [developer_fam](https://www.instagram.com/developer_fam/)
+- 📝 I regularly make some informative stuff on [developer_fam](https://www.instagram.com/developer_fam/)
 
 - 📫 How to reach me **dimebeatengreen8@gmail.com**
 
