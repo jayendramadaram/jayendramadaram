@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
 - 
-- 📝 read my [developer_fam](https://jayendramadara.blogspot.com/2021/08/blog-post_12.html)
+- 📝 read my [blog](https://jayendramadara.blogspot.com/2021/08/blog-post_12.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
