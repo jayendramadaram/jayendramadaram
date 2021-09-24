@@ -13,7 +13,7 @@
 
 -✨ online portfolio [https://portfolio-jayendramadara.herokuapp.com/](https://portfolio-jayendramadara.herokuapp.com/)
 
-- 📝 I regularly make some entertaining stuff on [compilation_exe](https://www.youtube.com/channel/UCU-GtEsT63xs4onwQLvmFPA)
+- 📝 I regularly make some entertaining stuff on [developer_fam](https://www.instagram.com/developer_fam/)
 
 - 📫 How to reach me **dimebeatengreen8@gmail.com**
 
@@ -22,6 +22,8 @@
 - ✨ Goals till june 2022 : build some fullstack projects<br> 
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
+- 
+- 📝 read my [developer_fam](https://jayendramadara.blogspot.com/2021/08/blog-post_12.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
