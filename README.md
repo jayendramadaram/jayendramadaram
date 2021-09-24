@@ -22,7 +22,7 @@
 - ✨ Goals till june 2022 : build some fullstack projects<br> 
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
-- 
+
 - 📝 read my [blog](https://jayendramadara.blogspot.com/2021/08/blog-post_12.html)
 
 <h3 align="left">Connect with me:</h3>
