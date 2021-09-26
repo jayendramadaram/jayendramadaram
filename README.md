@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dimebeatengreen8@gmail.com**
 
-- 📄 Know about my experiences [resume](www.linkedin.com/in/jayendra-madharam-961922200)
+- 📄 Know about my experiences [resume](https://pdfhost.io/v/BiyRkrHKJ_RESUME#page=1&zoom=auto,-153,1001)
 
 - ✨ Goals till june 2022 : build some fullstack projects<br> 
 
