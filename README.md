@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/jayendra__02" target="blank"><img src="https://img.shields.io/twitter/follow/jayendra__02?logo=twitter&style=for-the-badge" alt="jayendra__02" /></a> </p>
 
 
-- 🌱 I’m currently learning **mern and DSA**
+- 🌱 I’m currently learning **BLOCK-CHAIN and MACHINE LEARNING**
 
 - 👯 I’m looking to collaborate on **any innovative projects**
 
