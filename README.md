@@ -42,7 +42,9 @@
 <p align="left">
   High Level Working : <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="80" height="40"/> </a><br>
   Low Level Working : <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="python" width="80" height="40"/>  </a> <br>
-  Scripting : <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="80" height="40"/> </a> </p>
+  Scripting : <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="100" height="40"/> </a>
+   Smart Contract : [Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+</p>
 
 
 <h3 align="left"> Tools Which i worked on Before:</h3>
