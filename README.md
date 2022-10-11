@@ -66,4 +66,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayendramadaram" alt="jayendramadaram" /></a> </p>
 
-[![Jayzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayendramadaram&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
