@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
--✨ online portfolio [https://portfolio-jayendramadara.herokuapp.com/](https://portfolio-jayendramadara.herokuapp.com/)
+-✨ online portfolio [https://portfolio-jayendra.netlify.app/](https://portfolio-jayendra.netlify.app/)
 
 - 📝 I regularly make some informative stuff on [developer_fam](https://www.instagram.com/developer_fam/)
 
 - 📫 How to reach me **dimebeatengreen8@gmail.com**
 
-- 📄 Know about my experiences [resume](https://pdfhost.io/v/BiyRkrHKJ_RESUME#page=1&zoom=auto,-153,1001)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1buUbXLgHfsBKHQqa-I8pLrj_fKMwLJMs/view?usp=sharing)
 
 - ✨ Goals till june 2022 : build some fullstack projects<br> 
 
