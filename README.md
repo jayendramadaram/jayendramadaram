@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1buUbXLgHfsBKHQqa-I8pLrj_fKMwLJMs/view?usp=sharing)
 
-- ✨ Goals till june 2022 : build some fullstack projects<br> 
+- ✨ Goals till june 2023 : Innovate in web3 space<br> 
 
 - ⚡ Fun fact **Hokage wa watashi no yume dakara akiramenai dattebayo 😁😁**
 
