@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **my deeplearning/machine learning carrier**
 
--✨ online portfolio [https://portfolio-jayendra.netlify.app/](https://portfolio-jayendra.netlify.app/)
+- ✨ online portfolio [https://portfolio-jayendra.netlify.app/](https://portfolio-jayendra.netlify.app/)
 
 - 📝 I regularly make some informative stuff on [developer_fam](https://www.instagram.com/developer_fam/)
 
